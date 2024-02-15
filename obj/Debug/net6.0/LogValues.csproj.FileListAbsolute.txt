@@ -1,0 +1,14 @@
+D:\mphasis\Feb15\LogValues\LogValues\bin\Debug\net6.0\LogValues.exe
+D:\mphasis\Feb15\LogValues\LogValues\bin\Debug\net6.0\LogValues.deps.json
+D:\mphasis\Feb15\LogValues\LogValues\bin\Debug\net6.0\LogValues.runtimeconfig.json
+D:\mphasis\Feb15\LogValues\LogValues\bin\Debug\net6.0\LogValues.dll
+D:\mphasis\Feb15\LogValues\LogValues\bin\Debug\net6.0\LogValues.pdb
+D:\mphasis\Feb15\LogValues\LogValues\obj\Debug\net6.0\LogValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\mphasis\Feb15\LogValues\LogValues\obj\Debug\net6.0\LogValues.AssemblyInfoInputs.cache
+D:\mphasis\Feb15\LogValues\LogValues\obj\Debug\net6.0\LogValues.AssemblyInfo.cs
+D:\mphasis\Feb15\LogValues\LogValues\obj\Debug\net6.0\LogValues.csproj.CoreCompileInputs.cache
+D:\mphasis\Feb15\LogValues\LogValues\obj\Debug\net6.0\LogValues.dll
+D:\mphasis\Feb15\LogValues\LogValues\obj\Debug\net6.0\refint\LogValues.dll
+D:\mphasis\Feb15\LogValues\LogValues\obj\Debug\net6.0\LogValues.pdb
+D:\mphasis\Feb15\LogValues\LogValues\obj\Debug\net6.0\LogValues.genruntimeconfig.cache
+D:\mphasis\Feb15\LogValues\LogValues\obj\Debug\net6.0\ref\LogValues.dll
